@@ -1,0 +1,10 @@
+There are 2 digits. 
+34 + 5 = 39
+
+ The average is: 
+19.5
+There are 10 digits. 
+34 + 5 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 91
+
+ The average is: 
+9.1
